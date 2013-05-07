@@ -31,7 +31,7 @@ Charlie Guo and Kevin Xu have created some hands-on interactive tutorials to get
 
 ## TODO
 
-- [] Make an SCSS version of this package for SASS-y people
+* Make an SCSS version of this package for SASS-y people? (Contact @ewall if you'd like to see that.)
 
 ## Just Because
 
