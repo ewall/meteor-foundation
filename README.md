@@ -7,10 +7,15 @@
 Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitchen-sink.html) to view all the elements in their native splendor. Or browse the [Case Studies](http://foundation.zurb.com/case-jacquelinewest.php) to see some sites which were built with Foundation and get ideas how it can be tweaked and customized to fit your style.
 
 ## How to install 
+
 1. `npm install -g meteorite` (if not already installed)
 2. `mrt add foundation`
 3. Minified CSS and JS files will be linked in your client-side code.
-4. Take a look at the index.html provided as a starter (or delete it if you don't want it).
+
+## Version History
+
+* 2013-05-21 v4.1.6r2 -- minor update to README.md, renamed 'lib' directory to 'client' for clarity
+* 2013-05-06 v4.1.6 -- initial release of the package containing Foundation version 4.1.6
 
 ## Documentation
 
