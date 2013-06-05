@@ -7,7 +7,8 @@ Package.on_use(function (api) {
   api.add_files([
     'client/custom.modernizr.js',
     'client/foundation.min.css',
-    'client/foundation.min.js'
+    'client/foundation.min.js',
+    'client/normalize.css'
   ], 'client'
   );
 });

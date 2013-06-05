@@ -11,9 +11,17 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitc
 1. `npm install -g meteorite` (if not already installed)
 2. `mrt add foundation`
 3. Minified CSS and JS files will be linked in your client-side code.
+4. To initialize Foundation's JavaScripts, don't forget to include something like the following in your client-side JavaScript:
+
+		if (Meteor.isClient) {
+		  $(document).foundation(function (response) {
+		      console.log(response.errors);
+		  });
+		}
 
 ## Version History
 
+* 2013-06-04 v4.2.1 -- new Foundation version 4.2.1; added normalize.css
 * 2013-05-21 v4.1.6r2 -- minor update to README.md, renamed 'lib' directory to 'client' for clarity
 * 2013-05-06 v4.1.6 -- initial release of the package containing Foundation version 4.1.6
 
