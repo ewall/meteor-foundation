@@ -15,6 +15,7 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitc
 
 ## Version History
 
+* 2013-06-30 v4.2.3    -- new Foundation version 4.2.3, add token Travis-CI support
 * 2013-06-11 v4.2.2    -- new Foundation version 4.2.2
 * 2013-06-11 v4.2.1r2  -- Foundation JavaScript now initialized automatically when jQuery is ready
 * 2013-06-04 v4.2.1    -- new Foundation version 4.2.1; added normalize.css
