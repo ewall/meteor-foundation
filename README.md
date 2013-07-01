@@ -1,6 +1,8 @@
-# Foundation by ZURB — an advanced responsive web framework
+# Foundation [![Build Status](https://travis-ci.org/ewall/meteor-foundation.png)](https://travis-ci.org/ewall/meteor-foundation)
 
-> This is a "smart package" for use with the [Meteor open-source web platform](http://meteor.com/) and the [Meteorite package manager](http://oortcloud.github.io/meteorite/). It is meant to be downloadable from the [Atmosphere package repository](https://atmosphere.meteor.com/) or from [Github](https://github.com/ewall/meteor-foundation).
+#### An advanced responsive web framework by [ZURB](http://zurb.com/)
+
+> This is a smart package for use with the [Meteor open-source web platform](http://meteor.com/) and the [Meteorite package manager](http://oortcloud.github.io/meteorite/). It is meant to be downloadable from the [Atmosphere package repository](https://atmosphere.meteor.com/) or from [Github](https://github.com/ewall/meteor-foundation).
 
 [Foundation](http://foundation.zurb.com/) is an advanced responsive web framework. It features a flexible grid useful for rapid prototyping and mobile-ready design, and the results are beautiful, readable web sites. Version 4 was built with "Mobile First" RWD, semantic-friendly markup, and all new JavaScript. (Note that version 4 no longer supports IE 7 & 8—so hopefully you don't have to either!)
 
