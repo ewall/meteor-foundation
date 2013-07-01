@@ -1,4 +1,4 @@
-# Foundation [![Build Status](https://travis-ci.org/ewall/meteor-foundation.png)](https://travis-ci.org/ewall/meteor-foundation)
+# Foundation [![Build Status](https://travis-ci.org/ewall/meteor-foundation.png?branch=master)](https://travis-ci.org/ewall/meteor-foundation)
 
 #### An advanced responsive web framework by [ZURB](http://zurb.com/)
 
