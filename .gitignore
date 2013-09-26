@@ -1,2 +1,3 @@
 .meteor
 smart.lock
+.build*

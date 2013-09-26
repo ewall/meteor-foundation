@@ -17,6 +17,7 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitc
 
 ## Version History
 
+* 2013-09-25 v4.3.2    -- new Foundation version 4.3.2 (lots of fixes); also restored logical load order of CSS and JS
 * 2013-07-27 v4.3.1    -- new Foundation version 4.3.1 (bug fixes)
 * 2013-07-22 v4.3.0    -- new Foundation version 4.3.0 (includes new Abide form validation plugin)
 * 2013-06-30 v4.2.3    -- new Foundation version 4.2.3, add token Travis-CI support
