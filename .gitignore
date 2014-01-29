@@ -1,3 +1,4 @@
 .meteor
 smart.lock
 .build*
+.sass-cache
