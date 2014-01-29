@@ -1,9 +1,9 @@
 {
   "name": "foundation",
   "description": "Foundation by ZURB - the most advanced responsive framework in the world. http://foundation.zurb.com/",
-  "homepage": "https://github.com/ewall/meteor-foundation",
+  "homepage": "http://foundation.zurb.com",
   "author": "Eric Wallace <e@ewall.org> (http://ewall.org)",
-  "version": "4.3.2",
-  "git": "https://github.com/ewall/meteor-foundation.git",
+  "version": "5.0.3",
+  "git": "",
   "packages": {}
 }
