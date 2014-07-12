@@ -47,10 +47,6 @@ ZURB has provided some great [sample templates](http://foundation.zurb.com/templ
 * Follow [@foundationzurb](http://twitter.com/foundationzurb) on Twitter for news.
 * If you're totally stuck and need some help, you can [email the friendly folks at ZURB](mailto:foundation@zurb.com) and they'll typically respond within a day or two.
 
-## TODO
-
-* Add continuous integration and testing with Travis CI and Tinytest.
-
 ## Just Because
 
 <img src="http://zurb.com/blog/system/images/1171/original/yeti-business.png" alt="The Foundation Yeti" width="450" height="250">
