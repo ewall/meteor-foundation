@@ -1,3 +1,4 @@
-.meteor
-smart.lock
 .build*
+.meteor
+node_modules
+smart.lock

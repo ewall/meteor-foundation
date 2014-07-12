@@ -6,10 +6,13 @@ Package.on_use(function (api) {
 	api.use('jquery', 'client');
 
 	var path = Npm.require('path');
-	api.add_files(path.join('client', 'normalize.css'), 'client');
-	api.add_files(path.join('client', 'foundation.min.css'), 'client');
+	api.add_files(path.join('css', 'normalize.css'), 'client');
+	api.add_files(path.join('css', 'foundation.min.css'), 'client');
 
-	api.add_files(path.join('client', 'custom.modernizr.js'), 'client');
-	api.add_files(path.join('client', 'foundation.min.js'), 'client');
-	api.add_files(path.join('client', 'activate-foundation.js'), 'client');
+	api.add_files(path.join('js', 'vendor', 'modernizr.js'), 'client');
+	api.add_files(path.join('js', 'vendor', 'fastclick.js'), 'client');
+	api.add_files(path.join('js', 'vendor', 'jquery.cookie.js'), 'client');
+	api.add_files(path.join('js', 'vendor', 'placeholder.js'), 'client');
+	api.add_files(path.join('js', 'foundation.min.js'), 'client');
+	api.add_files(path.join('js', 'activate-foundation.js'), 'client');
 });
