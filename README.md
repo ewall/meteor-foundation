@@ -21,6 +21,7 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitc
 
 ## Version History
 
+* 2014-07-18 v5.3.1 — new Foundation version 5.3.1 (lots of fixes)
 * 2014-07-09 v5.3.0 — finally updated to Foundation 5.3.0; now with Jasmine tests for Travis CI too
 * 2013-09-25 v4.3.2 — new Foundation version 4.3.2 (lots of fixes); also restored logical load order of CSS and JS
 * 2013-07-27 v4.3.1 — new Foundation version 4.3.1 (bug fixes)
