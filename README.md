@@ -1,5 +1,4 @@
-# Foundation [![Build Status](https://travis-ci.org/ewall/meteor-foundation.png?branch=master)](https://travis-ci.org/ewall/meteor-foundation)
-
+# Foundation 5.3.2 [![Build Status](https://travis-ci.org/ewall/meteor-foundation.png?branch=master)](https://travis-ci.org/ewall/meteor-foundation)
 #### An advanced responsive web framework by [ZURB](http://zurb.com/)
 
 > This is a smart package for use with the [Meteor open-source web platform](http://meteor.com/) and the [Meteorite package manager](http://oortcloud.github.io/meteorite/). It is meant to be downloadable from the [Atmosphere package repository](https://atmospherejs.com/) or from [Github](https://github.com/ewall/meteor-foundation).
@@ -21,6 +20,7 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitc
 
 ## Version History
 
+* 2014-07-31 v5.3.2 - new Foundation version 5.3.2 (buggy?)
 * 2014-07-18 v5.3.1 — new Foundation version 5.3.1 (lots of fixes)
 * 2014-07-09 v5.3.0 — finally updated to Foundation 5.3.0; now with Jasmine tests for Travis CI too
 * 2013-09-25 v4.3.2 — new Foundation version 4.3.2 (lots of fixes); also restored logical load order of CSS and JS
