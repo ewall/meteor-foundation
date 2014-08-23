@@ -17,7 +17,7 @@ module.exports = function(config) {
         {pattern: 'js/vendor/jquery.cookie.js', watched: true, served: true, included: true},
         {pattern: 'js/foundation.min.js', watched: true, served: true, included: true},
         {pattern: 'spec/**/*.html', watched: true, served: true, included: true},
-        {pattern: 'node_modules/jasmine-jquery/lib/jasmine-jquery.js', watched: true, served: true, included: true},
+        {pattern: 'js/vendor/jasmine-jquery.js', watched: true, served: true, included: true},
         {pattern: 'spec/helpers.js', watched: true, served: true, included: true},
         {pattern: 'spec/**/*.js', watched: true, served: true, included: true},
         {pattern: 'spec/**/*.gif', watched: true, served: true, included: false}
