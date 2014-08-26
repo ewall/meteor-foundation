@@ -1,6 +1,6 @@
 {
   "name": "meteor-foundation",
-  "version": "5.3.3",
+  "version": "5.4.0",
   "devDependencies": {
     "highlight.js": "~7.3.0",
     "karma": "~0.10.4",

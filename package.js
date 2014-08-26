@@ -1,5 +1,8 @@
 Package.describe({
-	summary: "Foundation by ZURB - an advanced responsive web framework"
+	name: "ewall:foundation",
+	summary: "Foundation by ZURB - an advanced responsive web framework",
+	version: "5.4.0",
+	git: "https://github.com/ewall/meteor-foundation"
 });
 
 Package.on_use(function (api) {
