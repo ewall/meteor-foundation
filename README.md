@@ -1,11 +1,15 @@
 # Foundation for Sites 5.5.1 [![Build Status](https://travis-ci.org/ewall/meteor-foundation.png?branch=master)](https://travis-ci.org/ewall/meteor-foundation)
-#### An advanced responsive web framework by [ZURB](http://zurb.com/)
+> An advanced responsive web framework by [ZURB](http://zurb.com/), in a [Meteor](http://meteor.com/) smart package
 
-> This is a smart package for use with the [Meteor open-source web platform](http://meteor.com/) and the [Meteorite package manager](http://oortcloud.github.io/meteorite/). It is meant to be downloadable from the [Atmosphere package repository](https://atmospherejs.com/) or from [Github](https://github.com/ewall/meteor-foundation).
+## About this package
 
-> *This package is now up-to-date with the latest Foundation 5.* If you are still on Foundation 4, check out my [Foundation-4](https://atmospherejs.com/package/Foundation-4) package instead.
+Available from the [Atmosphere package repository](https://atmospherejs.com/ewall/foundation) or on [Github.com](https://github.com/ewall/meteor-foundation).
 
-> *This package includes Foundation's default CSS, and does **not** include SCSS files.* If you want to use SCSS, consider either the [foundation5-sass](https://atmospherejs.com/package/foundation5-sass) or [zf5](https://atmospherejs.com/package/zf5) packages, which are well-maintained by users more skilled with sassy CSS than I am.
+*This package is now up-to-date with the latest Foundation 5.* If you are still on Foundation 4, check out my [Foundation-4](https://atmospherejs.com/package/Foundation-4) package instead.
+
+*This package includes Foundation's default CSS, and does **not** include SCSS files.* If you want to use SCSS, consider either the [foundation5-sass](https://atmospherejs.com/package/foundation5-sass) or [zf5](https://atmospherejs.com/package/zf5) packages, which are well-maintained by users more skilled with sassy CSS than I am.
+
+## About Foundation
 
 [Foundation](http://foundation.zurb.com/) is an advanced responsive web framework. It features a flexible grid useful for rapid prototyping and mobile-ready design, and the results are beautiful, readable web sites. Version 4 was built with "Mobile First" RWD, semantic-friendly markup, and all new JavaScript. (Note that version 4 no longer supports IE 7 & 8—so hopefully you don't have to either!)
 
@@ -20,13 +24,13 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitc
 
 ## Version History
 
-* 2015-02-02 v5.5.1 - Foundation for Sites version 5.5.1
-* 2014-12-16 v5.5.0 - new Foundation for Sites (different from "For Apps") version 5.5.0
-* 2014-11-01 v5.4.7 - new Foundation version 5.4.7
-* 2014-10-19 v5.4.6 - new Foundation version 5.4.6
-* 2014-08-22 v5.4.0 - new Foundation version 5.4.0 (accessibility improvements)
-* 2014-08-01 v5.3.3 - new Foundation version 5.3.3
-* 2014-07-31 v5.3.2 - new Foundation version 5.3.2 (buggy?)
+* 2015-02-02 v5.5.1 — Foundation for Sites version 5.5.1
+* 2014-12-16 v5.5.0 — new Foundation for Sites (different from "For Apps") version 5.5.0
+* 2014-11-01 v5.4.7 — new Foundation version 5.4.7
+* 2014-10-19 v5.4.6 — new Foundation version 5.4.6
+* 2014-08-22 v5.4.0 — new Foundation version 5.4.0 (accessibility improvements)
+* 2014-08-01 v5.3.3 — new Foundation version 5.3.3
+* 2014-07-31 v5.3.2 — new Foundation version 5.3.2 (buggy?)
 * 2014-07-18 v5.3.1 — new Foundation version 5.3.1 (lots of fixes)
 * 2014-07-09 v5.3.0 — finally updated to Foundation 5.3.0; now with Jasmine tests for Travis CI too
 * 2013-09-25 v4.3.2 — new Foundation version 4.3.2 (lots of fixes); also restored logical load order of CSS and JS

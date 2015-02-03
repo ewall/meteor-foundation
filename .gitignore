@@ -1,4 +1,5 @@
 .build*
 .meteor
+.versions
 node_modules
 smart.lock
