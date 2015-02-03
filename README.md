@@ -1,4 +1,4 @@
-# Foundation for Sites 5.5.0 [![Build Status](https://travis-ci.org/ewall/meteor-foundation.png?branch=master)](https://travis-ci.org/ewall/meteor-foundation)
+# Foundation for Sites 5.5.1 [![Build Status](https://travis-ci.org/ewall/meteor-foundation.png?branch=master)](https://travis-ci.org/ewall/meteor-foundation)
 #### An advanced responsive web framework by [ZURB](http://zurb.com/)
 
 > This is a smart package for use with the [Meteor open-source web platform](http://meteor.com/) and the [Meteorite package manager](http://oortcloud.github.io/meteorite/). It is meant to be downloadable from the [Atmosphere package repository](https://atmospherejs.com/) or from [Github](https://github.com/ewall/meteor-foundation).
@@ -20,6 +20,7 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitc
 
 ## Version History
 
+* 2015-02-02 v5.5.1 - Foundation for Sites version 5.5.1
 * 2014-12-16 v5.5.0 - new Foundation for Sites (different from "For Apps") version 5.5.0
 * 2014-11-01 v5.4.7 - new Foundation version 5.4.7
 * 2014-10-19 v5.4.6 - new Foundation version 5.4.6
