@@ -71,10 +71,8 @@ describe('interchange:', function() {
         expect($('div[data-interchange]').data('data-interchange-last-path')).toBe(undefined);
         
         // Last path shouldn't be set until we initialize foundation
-        $(document).foundation();  
-
-        //ewall: this test is often but inconsistently fails Firefox and Chrome      
-        //expect($('div[data-interchange]').data('data-interchange-last-path')).toMatch('default.html');
+        $(document).foundation();        
+        expect($('div[data-interchange]').data('data-interchange-last-path')).toMatch('default.html');
       });
     }))
   });
