@@ -131,7 +131,7 @@ describe('abide:', function() {
 
       expect('focus').not.toHaveBeenTriggeredOn(hidden_element);
 
-      //ewall: Firefox doesn't appear to focus first field at open?
+      //ewall: Firefox doesn't appear to focus first field at open; test disabled
       //expect('focus').toHaveBeenTriggeredOn(first_element);
     });
 

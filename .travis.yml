@@ -1,8 +1,16 @@
+# run on new docker infrastructure
+sudo: false
+
 language: node_js
 node_js:
   - "0.10"
+
 before_install:
-  - "curl -L http://git.io/ejPSng | /bin/sh"
+  # install Meteor
+  - "curl https://install.meteor.com | /bin/sh"
+  # add Meteor to path manually since it can't sudo
+  - export PATH="$HOME/.meteor:$PATH"
+
 before_script:
   - export DISPLAY=:99.0
   - sh -e /etc/init.d/xvfb start
