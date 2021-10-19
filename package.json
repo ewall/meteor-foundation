@@ -1,8 +1,8 @@
 {
   "name": "meteor-foundation",
-  "version": "5.5.3",
+  "version": "5.5.3_1",
   "devDependencies": {
-    "highlight.js": "~7.3.0",
+    "highlight.js": ">=9.18.2",
     "karma": "~0.10.4",
     "karma-firefox-launcher": "~0.1.0",
     "karma-jasmine": "~0.1.3",

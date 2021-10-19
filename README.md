@@ -3,6 +3,8 @@
 
 ## About this package
 
+> :warning: **DEPRECATED**: Zurb Foundation for Sites 5 was last updated in 2015. Please consider using Foundation 6.
+
 Available from the [Atmosphere package repository](https://atmospherejs.com/ewall/foundation) or on [Github.com](https://github.com/ewall/meteor-foundation).
 
 *This package is now up-to-date with the latest Foundation 5.* If you are still on Foundation 4, check out my [Foundation-4](https://atmospherejs.com/package/Foundation-4) package instead.
@@ -24,6 +26,7 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/components/kitc
 
 ## Version History
 
+* 2021-10-18 v5.5.3_1 - add deprecation warning; still Foundation for Sites version 5.5.3
 * 2015-10-10 v5.5.3 - Foundation for Sites version 5.5.3
 * 2015-05-02 v5.5.2 - Foundation for Sites version 5.5.2
 * 2015-02-02 v5.5.1 — Foundation for Sites version 5.5.1
